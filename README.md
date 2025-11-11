@@ -1,10 +1,4 @@
-<div align="center">
-  <p align="center">
-    <img src="LTM/src/assets/aiotlab_logo.png" alt="AIoTLab Logo" width="160"/>
-    <img src="LTM/src/assets/fitdnu_logo.png" alt="FIT DNU Logo" width="180"/>
-    <img src="LTM/src/assets/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
-  </p>
-</div>
+
 
 <h2 align="center">
   <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
