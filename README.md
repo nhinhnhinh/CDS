@@ -12,7 +12,7 @@
 
 <div align="center">
   <p align="center">
-    [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+    [![AIoTLab]([https://img.shields.io/badge/AIoTLab-green?style=for-the-badge](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab))](https://www.facebook.com/DNUAIoTLab)
     [![Faculty of Information Technology](https://img.shields.io/badge/FIT-DNU-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
     [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
   </p>
