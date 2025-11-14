@@ -124,16 +124,4 @@ Backend: http://localhost:5001
 
 Frontend: http://localhost:3000
 
-## 📬 5. Liên hệ
-
- 👤 **Họ và tên:** Nguyễn Việt Ninh  
- 🎓 **Khoa:** Công nghệ thông tin – Trường Đại học Đại Nam  
- 🌐 **Website:** [Khoa CNTT – DNU](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
- 📧 **Email:** [nvninh2804@gmail.com](mailto:nvninh2804@gmail.com)  
- 📱 **Fanpage:** [AIoTLab – FIT DNU](https://www.facebook.com/DNUAIoTLab)  
-
----
-
-<p align="center">
-  © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved
-</p>
+  
